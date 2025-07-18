@@ -1,0 +1,12 @@
+D:\lib\AppoinmentManagementSystem\AppoinmentManagementSystem.Domain\bin\Debug\net9.0\AppointmentManagementSystem.Domain.deps.json
+D:\lib\AppoinmentManagementSystem\AppoinmentManagementSystem.Domain\bin\Debug\net9.0\AppointmentManagementSystem.Domain.dll
+D:\lib\AppoinmentManagementSystem\AppoinmentManagementSystem.Domain\bin\Debug\net9.0\AppointmentManagementSystem.Domain.pdb
+D:\lib\AppoinmentManagementSystem\AppoinmentManagementSystem.Domain\obj\Debug\net9.0\AppointmentManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\lib\AppoinmentManagementSystem\AppoinmentManagementSystem.Domain\obj\Debug\net9.0\AppointmentManagementSystem.Domain.AssemblyInfoInputs.cache
+D:\lib\AppoinmentManagementSystem\AppoinmentManagementSystem.Domain\obj\Debug\net9.0\AppointmentManagementSystem.Domain.AssemblyInfo.cs
+D:\lib\AppoinmentManagementSystem\AppoinmentManagementSystem.Domain\obj\Debug\net9.0\AppointmentManagementSystem.Domain.csproj.CoreCompileInputs.cache
+D:\lib\AppoinmentManagementSystem\AppoinmentManagementSystem.Domain\obj\Debug\net9.0\AppointmentManagementSystem.Domain.sourcelink.json
+D:\lib\AppoinmentManagementSystem\AppoinmentManagementSystem.Domain\obj\Debug\net9.0\AppointmentManagementSystem.Domain.dll
+D:\lib\AppoinmentManagementSystem\AppoinmentManagementSystem.Domain\obj\Debug\net9.0\refint\AppointmentManagementSystem.Domain.dll
+D:\lib\AppoinmentManagementSystem\AppoinmentManagementSystem.Domain\obj\Debug\net9.0\AppointmentManagementSystem.Domain.pdb
+D:\lib\AppoinmentManagementSystem\AppoinmentManagementSystem.Domain\obj\Debug\net9.0\ref\AppointmentManagementSystem.Domain.dll

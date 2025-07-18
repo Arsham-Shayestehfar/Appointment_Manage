@@ -1,0 +1,16 @@
+D:\lib\AppoinmentManagementSystem\AppointmentManagementSystem.Application\bin\Debug\net9.0\AppointmentManagementSystem.Application.deps.json
+D:\lib\AppoinmentManagementSystem\AppointmentManagementSystem.Application\bin\Debug\net9.0\AppointmentManagementSystem.Application.dll
+D:\lib\AppoinmentManagementSystem\AppointmentManagementSystem.Application\bin\Debug\net9.0\AppointmentManagementSystem.Application.pdb
+D:\lib\AppoinmentManagementSystem\AppointmentManagementSystem.Application\bin\Debug\net9.0\AppointmentManagementSystem.Domain.dll
+D:\lib\AppoinmentManagementSystem\AppointmentManagementSystem.Application\bin\Debug\net9.0\AppointmentManagementSystem.Domain.pdb
+D:\lib\AppoinmentManagementSystem\AppointmentManagementSystem.Application\obj\Debug\net9.0\AppointmentManagementSystem.Application.csproj.AssemblyReference.cache
+D:\lib\AppoinmentManagementSystem\AppointmentManagementSystem.Application\obj\Debug\net9.0\AppointmentManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\lib\AppoinmentManagementSystem\AppointmentManagementSystem.Application\obj\Debug\net9.0\AppointmentManagementSystem.Application.AssemblyInfoInputs.cache
+D:\lib\AppoinmentManagementSystem\AppointmentManagementSystem.Application\obj\Debug\net9.0\AppointmentManagementSystem.Application.AssemblyInfo.cs
+D:\lib\AppoinmentManagementSystem\AppointmentManagementSystem.Application\obj\Debug\net9.0\AppointmentManagementSystem.Application.csproj.CoreCompileInputs.cache
+D:\lib\AppoinmentManagementSystem\AppointmentManagementSystem.Application\obj\Debug\net9.0\AppointmentManagementSystem.Application.sourcelink.json
+D:\lib\AppoinmentManagementSystem\AppointmentManagementSystem.Application\obj\Debug\net9.0\Appointm.52218EEE.Up2Date
+D:\lib\AppoinmentManagementSystem\AppointmentManagementSystem.Application\obj\Debug\net9.0\AppointmentManagementSystem.Application.dll
+D:\lib\AppoinmentManagementSystem\AppointmentManagementSystem.Application\obj\Debug\net9.0\refint\AppointmentManagementSystem.Application.dll
+D:\lib\AppoinmentManagementSystem\AppointmentManagementSystem.Application\obj\Debug\net9.0\AppointmentManagementSystem.Application.pdb
+D:\lib\AppoinmentManagementSystem\AppointmentManagementSystem.Application\obj\Debug\net9.0\ref\AppointmentManagementSystem.Application.dll
