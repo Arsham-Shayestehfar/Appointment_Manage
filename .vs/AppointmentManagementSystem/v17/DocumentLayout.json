@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lib\\AppoinmentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB732EB-039D-4E9A-B887-754F06304D3F}|AppoinmentManagementSystem.Domain\\AppointmentManagementSystem.Domain.csproj|d:\\lib\\appoinmentmanagementsystem\\appoinmentmanagementsystem.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB732EB-039D-4E9A-B887-754F06304D3F}|AppoinmentManagementSystem.Domain\\AppointmentManagementSystem.Domain.csproj|solutionrelative:appoinmentmanagementsystem.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB732EB-039D-4E9A-B887-754F06304D3F}|AppoinmentManagementSystem.Domain\\AppointmentManagementSystem.Domain.csproj|d:\\lib\\appoinmentmanagementsystem\\appoinmentmanagementsystem.domain\\valueobjects\\clientname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB732EB-039D-4E9A-B887-754F06304D3F}|AppoinmentManagementSystem.Domain\\AppointmentManagementSystem.Domain.csproj|solutionrelative:appoinmentmanagementsystem.domain\\valueobjects\\clientname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB732EB-039D-4E9A-B887-754F06304D3F}|AppoinmentManagementSystem.Domain\\AppoinmentManagementSystem.Domain.csproj|d:\\lib\\appoinmentmanagementsystem\\appoinmentmanagementsystem.domain\\valueobjects\\appointmentdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB732EB-039D-4E9A-B887-754F06304D3F}|AppoinmentManagementSystem.Domain\\AppoinmentManagementSystem.Domain.csproj|solutionrelative:appoinmentmanagementsystem.domain\\valueobjects\\appointmentdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\lib\\AppoinmentManagementSystem\\AppoinmentManagementSystem.Domain\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "AppoinmentManagementSystem.Domain\\Entities\\Appointment.cs",
+              "ToolTip": "D:\\lib\\AppoinmentManagementSystem\\AppoinmentManagementSystem.Domain\\Entities\\Appointment.cs",
+              "RelativeToolTip": "AppoinmentManagementSystem.Domain\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T00:26:55.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientName.cs",
+              "DocumentMoniker": "D:\\lib\\AppoinmentManagementSystem\\AppoinmentManagementSystem.Domain\\ValueObjects\\ClientName.cs",
+              "RelativeDocumentMoniker": "AppoinmentManagementSystem.Domain\\ValueObjects\\ClientName.cs",
+              "ToolTip": "D:\\lib\\AppoinmentManagementSystem\\AppoinmentManagementSystem.Domain\\ValueObjects\\ClientName.cs",
+              "RelativeToolTip": "AppoinmentManagementSystem.Domain\\ValueObjects\\ClientName.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T00:22:29.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentDate.cs",
+              "DocumentMoniker": "D:\\lib\\AppoinmentManagementSystem\\AppoinmentManagementSystem.Domain\\ValueObjects\\AppointmentDate.cs",
+              "RelativeDocumentMoniker": "AppoinmentManagementSystem.Domain\\ValueObjects\\AppointmentDate.cs",
+              "ToolTip": "D:\\lib\\AppoinmentManagementSystem\\AppoinmentManagementSystem.Domain\\ValueObjects\\AppointmentDate.cs",
+              "RelativeToolTip": "AppoinmentManagementSystem.Domain\\ValueObjects\\AppointmentDate.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T00:10:38.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
